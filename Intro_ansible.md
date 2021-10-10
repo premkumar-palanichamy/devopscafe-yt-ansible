@@ -4,7 +4,7 @@
 
 _Ansible_ is an open source automation and orchestration tool for software provisioning, configuration management, and software deployment. Ansible can easily run and configure Unix-like systems as well as Windows systems to provide infrastructure as code. It contains its own declarative programming language for system configuration and management.
 
-<img src="https://images.app.goo.gl/Wh6NSsXapPSVz27H6" align="center" height=250 width=2000>
+<img src="https://www.whizlabs.com/blog/wp-content/uploads/2019/09/introduction_to_ansible.png" align="center" height=250 width=2000>
 
 ## Ansible amis to be:
 
