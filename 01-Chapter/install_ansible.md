@@ -94,3 +94,25 @@ Default inventory file location:
 $ ansible testservers -m ping
 
 $ ansible -i hosts all -m ping -u prem
+
+### Lab Setup
+
+> If you are interested and wanted to spin up the ansible environment on cloud like Azure then you can refer and run the below link.
+
+`git clone https://github.com/devopshubproject/azure-terraform-ansible.git`
+
+> As second option, in case if you want to use vagrant then refer the below link.
+
+` git clone https://github.com/devopshubproject/vagrant-ansible.git`
+
+    - To bring up the instance
+        > vagrant up
+    
+    - To validate the file
+        > vagrant validate
+    
+    - To stop the instance
+        > vagrant halt
+    
+    - To terminate the instance
+        > vagrant destroy
