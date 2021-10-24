@@ -6,7 +6,7 @@ _Ansible_ is an open source automation and orchestration tool for software provi
 
 <img src="https://www.whizlabs.com/blog/wp-content/uploads/2019/09/introduction_to_ansible.png" align="center" height=250 width=2000>
 
-## Ansible amis to be:
+## Ansible aims to be:
 
 -   Clear: Uses a simple syntax (YAML).
 -   Fast: Fast to learn, fast to set-up (no extra agents or daemons needed)
